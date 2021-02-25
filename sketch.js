@@ -38,7 +38,7 @@ ground.display();
 stone.display();
 ellipseMode(CENTER);
 balls.display();
- drawSprites();
+
 }
 
 
